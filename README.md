@@ -2,16 +2,17 @@
 
 ## Elementos
 > - RelativeLayout :
-> > - TextView
+> > - TextView (Heading)
 > > - ScrollView :  
 > > > - LinearLayout :
-> > > > - 3 TextView
+> > > > - 3 TextView (Subheading, article, comment)
 > > > > - Button
 
 ## Funcionamiento
       
-https://user-images.githubusercontent.com/91748294/198883487-6d7858ae-afc9-450e-9c47-dc7efb98064a.mp4
-      
+https://user-images.githubusercontent.com/91748294/198884887-7edda01a-d044-4812-8237-53c57d57ed49.mp4
+
+
 
 
 
